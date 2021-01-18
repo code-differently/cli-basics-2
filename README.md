@@ -2,7 +2,8 @@
 
 ## Objective
 
-Use terminal to create a simple web page
+1. Use terminal to create a simple web page
+2. Use terminal and Homebrew to instal new tool
 
 ## Tech Requirements
 
